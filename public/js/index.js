@@ -14,6 +14,14 @@ socket.on('newMessage', function(message) {
 	console.log('newMessage', message);
 });
 
+// socket.on('logOn', function(message){
+// 	console.log(`${message.from} says:`, message.text);
+// });
+
+// socket.on('join', function (message) {
+// 	console.log(message.text);
+// })
+
 // new message and create
 //from text created at
 //from, text
