@@ -18,7 +18,7 @@ LAUNCHING
 
 * in command line, run:
 
-npm dev-server 
+npm start 
 
 PACKAGE.JSON
 
