@@ -6,20 +6,20 @@ note-chat-app
 
 INSTALLATION
 
-* clone the application from github: 
+* Clone the application from github: 
 
 https://github.com/Schyenindogu/git-node-chat-app-class-/tree/master/public
 
-* after loading the application in the termial, run:
+* After loading the application in the termial, run:
 
   npm install
 
 LAUNCHING
 
-* in command line, run:
+* In command line, run:
 
 npm start 
 
 PACKAGE.JSON
 
-* all necessary dependencies are listed in the file package.json located in the main file directory.
+* All necessary dependencies are listed in the file package.json located in the main file directory.
